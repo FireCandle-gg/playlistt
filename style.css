@@ -1,0 +1,110 @@
+body{
+    background-image: url(WhatsApp\ Image\ 2025-07-31\ at\ 12.50.27_6e1c9cca.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 80vh;
+}
+
+.my-music{
+    background: rgba(255,255,255,0.3);
+    backdrop-filter: blur(120px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 120px;
+    margin-left: 350px;
+    width: 50%;
+    border-radius: 10px;
+}
+
+.list-music{
+    background: rgba(255,255,255,0.3);
+    backdrop-filter: blur(120px);
+    justify-content: center;
+    align-items: center;
+    margin-left: 350px;
+    width: 50%;
+    border-radius: 10px;
+}
+
+.h1-1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.music1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-decoration: solid;
+    font-size: large;
+    border-style: dashed;
+}
+
+.h1-2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.music1:hover {
+    background-color: wheat;
+    color: blueviolet;
+    text-decoration: none;
+    transition: ease 1.0s;
+    border-radius: 20px;
+    margin-left: 180px;
+    margin-right: 180px;
+
+}
+
+.music2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-decoration: solid;
+    font-size: large;
+    border-style: dashed;
+}
+
+.music2:hover {
+    background-color: wheat;
+    color: blueviolet;
+    text-decoration: none;
+    transition: ease-in-out 1.0s;
+    border-radius: 20px;
+    margin-left: 180px;
+    margin-right: 180px;
+
+}
+
+.music3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-decoration: solid;
+    font-size: large;
+    border-style: dashed;
+}
+
+.music3:hover {
+    background-color: wheat;
+    color: blueviolet;
+    text-decoration: none;
+    transition: ease-in-out 1.0s;
+    border-radius: 20px;
+    margin-left: 150px;
+    margin-right: 150px;
+
+}
+
+.h1-3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
